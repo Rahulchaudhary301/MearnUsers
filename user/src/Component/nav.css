@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#naa{
+    display: inline-block;
+    background:rgb(130, 19, 147);
+    width: 100%;
+}
+.nav{
+   
+    height: 50px;
+    text-align: center;
+     margin: 10px;
+     
+}
+#a{
+    margin-left: 30px;
+    margin-right: 20px;
+}
+#b{
+    margin-left: 30px;
+    margin-right: 20px;
+}
+#c{
+    margin-left: 30px;
+    margin-right: 20px;
+}
+#d{
+    margin-left: 30px;
+    margin-right: 20px;
+}
